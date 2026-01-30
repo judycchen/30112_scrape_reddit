@@ -1,0 +1,9 @@
+# OS junk
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data (do NOT upload)
+scraped_data/arctic_raw/
+*.jsonl
